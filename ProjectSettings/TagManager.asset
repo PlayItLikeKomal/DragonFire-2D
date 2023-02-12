@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - enemy
+  - background
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - wall
+  - player
+  - enemy
+  - button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 323576171
+    locked: 0
+  - name: foreground
+    uniqueID: 2432432185
+    locked: 0
+  - name: health
+    uniqueID: 751013499
+    locked: 0
+  - name: player
+    uniqueID: 2273859511
+    locked: 0
+  - name: ground
+    uniqueID: 2135751651
+    locked: 0
+  - name: btns
+    uniqueID: 3459295775
+    locked: 0
